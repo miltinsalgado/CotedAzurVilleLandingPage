@@ -18,6 +18,6 @@ Essa página web possui design totalmente responsivo e uma divisão de página m
 
 Agradeço a sua atenção e leitura deste documento!
 
-Atenciosamente, 
+Atenciosamente,
 
 Milton Salgado ⚡
