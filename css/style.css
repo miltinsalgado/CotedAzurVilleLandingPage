@@ -153,7 +153,7 @@ section.cover-form .container .arrow{
     background-repeat: no-repeat;
 }
 
-@media screen  and (max-width: 960px){
+@media screen  and (max-width: 992px){
     
     section.cover-form .container{
         display: inline-block;
