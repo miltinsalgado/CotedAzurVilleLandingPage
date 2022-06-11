@@ -8,7 +8,7 @@ Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor 
 ### 🖼️ Prévia do Projeto 🖼️
 
 <div align="center">
-    <img height="600em" src="images/demo/landing_page_cotedazur.jpg">
+    <img height="600em" src="images/demo/landing_page_cotedazur_index.jpg">
 </div>
 
 <hr>
