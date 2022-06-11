@@ -3,14 +3,15 @@
 ### 📄 Resumo do Projeto 📄
 Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor Guilherme Grillo.
 
-##
+<hr>
 
 ### 🖼️ Prévia do Projeto 🖼️
+
 <div align="center">
-    <img height="600em" src="images/landing_page_cotedazur.png">
+    <img height="600em" src="images/demo/landing_page_cotedazur.jpg">
 </div>
 
-##
+<hr>
 
 ### 📖 Descrição do Projeto 📖
 O projeto é baseado em um website produzido pela Danki Code para um de seus clientes, então o recriei e modifiquei do zero.
@@ -25,7 +26,7 @@ Essa página web possui design totalmente responsivo e uma divisão de página m
   <img align="center" alt="Miltin-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
 
-##
+<hr>
 
 Agradeço a sua atenção e leitura deste documento!
 
